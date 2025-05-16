@@ -18,6 +18,11 @@ Emulationstation Theme for Batocera and RetroBat.<br/>
 | ![](https://imgur.com/GL48apj.png?raw=true) | ![](https://imgur.com/e0QIBke.png?raw=true) | ![](https://imgur.com/cBbD9Nk.png?raw=true) |
 | ![](https://imgur.com/yCubZNX.png?raw=true) | ![](https://imgur.com/dRNUnbj.png?raw=true) | ![](https://imgur.com/hvIdZsk.png?raw=true) |
 
+The HyperMax-Plus-PixN theme is now available in the 'Themes Downloader' section of RetroBat and Batocera!
+
+A video of the theme in action and all it's various options and views can be found here:
+https://youtu.be/hawItKfnlso
+
 How to manually add themes to Batocera and RetroBat:
 
 Batocera:
