@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1920"
-   height="720"
-   viewBox="0 0 1920 719.99997"
+   width="2200"
+   height="900"
+   viewBox="0 0 2200 899.99997"
    version="1.1"
    id="svg8"
    sodipodi:docname="n501.svg"
@@ -26,8 +26,8 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.82846514"
-     inkscape:cx="741.12956"
-     inkscape:cy="610.16448"
+     inkscape:cx="1062.2052"
+     inkscape:cy="481.00998"
      inkscape:window-width="3840"
      inkscape:window-height="2066"
      inkscape:window-x="-11"
@@ -50,10 +50,11 @@
   <g
      id="layer1"
      inkscape:label="Logo"
-     transform="translate(135.20485)">
+     transform="translate(275.20485,35)">
     <g
        id="g1"
-       inkscape:label="Text">
+       inkscape:label="Text"
+       style="fill:#000000">
       <path
          style="display:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.3333"
          d="m 26.206993,865.7292 v 29.2186 H 3.6547933 V 816.9792 H 58.186193 v 18.5416 h -31.9792 v 12.7084 h 24.5312 v 17.5 h -24.5312"
