@@ -114,6 +114,7 @@
      <video name="backgroundvideo20" extra="true">
         <default>./_inc/pixn.mp4</default>
 		<path>{random}</path>
+		<path>./_inc/videos/${system.theme}.mp4</path>
 		<origin>0 0</origin>
         <size>0.565 0.5</size>
 		<pos>0 0</pos>

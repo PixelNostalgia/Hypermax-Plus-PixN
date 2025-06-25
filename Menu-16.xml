@@ -30,7 +30,8 @@
 	 <video name="backgroundvideo" extra="true">
         <default>./default/_inc/noise.mp4</default>
         <visible>true</visible>
-        <path>{random}</path>  
+        <path>{random}</path>
+		<path>./_inc/videos/${system.theme}.mp4</path>
         <pos>0 0</pos>
         <origin>0 0</origin>
         <size>1 1</size>

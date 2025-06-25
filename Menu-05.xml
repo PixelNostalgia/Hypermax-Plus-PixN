@@ -131,23 +131,24 @@
 	
 
 <video name="backgroundvideo" extra="true">
-        <default>./_inc/pixn.mp4</default>
-<visible>true</visible>
-<path>{random}</path>
-<rotation>0</rotation>  
-<roundCorners>0.43</roundCorners>             
-<pos>0.3500 0.498</pos>
-<origin>0.5 0.5</origin>
-<size>0.3730 0.6590</size>
-<delay>0.3</delay>
-<showSnapshotNoVideo>false</showSnapshotNoVideo>
-<showSnapshotDelay>false</showSnapshotDelay>
-<color>FFFFFF</color>
-        <storyboard>
+	 <default>./_inc/pixn.mp4</default>
+	 <visible>true</visible>
+	 <path>{random}</path>
+	 <path>./_inc/videos/${system.theme}.mp4</path>
+	 <rotation>0</rotation>  
+	 <roundCorners>0.43</roundCorners>             
+	 <pos>0.3500 0.498</pos>
+	 <origin>0.5 0.5</origin>
+	 <size>0.3730 0.6590</size>
+	 <delay>0.3</delay>
+	 <showSnapshotNoVideo>false</showSnapshotNoVideo>
+	 <showSnapshotDelay>false</showSnapshotDelay>
+	 <color>FFFFFF</color>
+      <storyboard>
         <animation property="y" from="0.05" begin="0" duration="350" mode="easeOut"/>
         <animation property="opacity" from="0" to="1" duration="550" mode="easeIn"/>
         <animation property="scale" from="0" to="1" duration="350" mode="easeOut"/>
-        </storyboard>
+      </storyboard>
 <zIndex>25</zIndex>
 </video>
 

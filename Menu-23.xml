@@ -75,7 +75,8 @@
       <video name="backgroundvideo" extra="true">
         <default>./_inc/pixn.mp4</default>
         <visible>true</visible>
-        <path>{random}</path>              
+        <path>{random}</path>
+		<path>./_inc/videos/${system.theme}.mp4</path>		
         <pos>0.38 0.1</pos>
         <size>0.47 0.78</size>
         <delay>0.3</delay>

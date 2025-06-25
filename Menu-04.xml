@@ -131,10 +131,10 @@
 	
 
 <video name="backgroundvideo" extra="true">
-        <default>./_inc/pixn.mp4</default>
+<default>./_inc/pixn.mp4</default>
 <visible>true</visible>
 <path>{random}</path>
-<path>./art/sistemas/videos/${system.theme}.mp4</path>  
+<path>./_inc/videos/${system.theme}.mp4</path>
 <rotation>0</rotation>  
 <roundCorners>0.43</roundCorners>             
 <pos>0.3500 0.498</pos>

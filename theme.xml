@@ -128,9 +128,6 @@
 	<include subset="Animation" name="Animation on">./Animation-on.xml</include>
     <include subset="Animation" name="Animation off">./Animation-off.xml</include>
 	
-	<include subset="Custom Video" name="Video Off">./off-bg-video.xml</include>
-	<include subset="Custom Video" name="Video On">./on-bg-video.xml</include>
-	
     <include>./_inc/gamebar/gamebar.xml</include>
 
 <!---------------------------screen----------------------------------------->

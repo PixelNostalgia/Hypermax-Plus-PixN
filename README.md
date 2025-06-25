@@ -18,6 +18,50 @@ Emulationstation Theme for Batocera and RetroBat.<br/>
 | ![](https://imgur.com/GL48apj.png?raw=true) | ![](https://imgur.com/e0QIBke.png?raw=true) | ![](https://imgur.com/cBbD9Nk.png?raw=true) |
 | ![](https://imgur.com/yCubZNX.png?raw=true) | ![](https://imgur.com/dRNUnbj.png?raw=true) | ![](https://imgur.com/hvIdZsk.png?raw=true) |
 
+## Info
+
+I take no credit for the original theme/code. I'm unsure who the original creator of the HyperMax theme is/was?
+
+I simply want to keep the theme alive and updated as it is still very popular!
+
+## Change Log ##
+
+**25th June 2025**
+Added the option to have system specific videos for each system.
+The theme will look for a system video here: /_inc/videos/${system.theme}.mp4
+If that doesn't exist it will use random game video snaps, if there aren't any it will use a default video.
+
+**21st June 2025**
+Added new transparent system logos in SVG format.
+
+**21st June 2025**
+Added support for Namco 11 and 22 systems.
+
+**11th June 2025**
+Added support for the Tyrian port.
+
+**10th June 2025**
+Added support for Iortcs, Hurrican and ETLegacy ports.
+
+**3rd June 2025**
+Added artwork for the Sega Model 2 system.
+
+**21st May 2025**
+Added new transparent system logos in SVG format.
+
+**19th May 2025**
+Added support for the J2me system.
+
+**16th May 2025**
+Added new transparent system logos in SVG format.
+
+**May 12th 2025**
+Moved the theme/code to it's new GitHub Repo.
+The previous 84 changes date back from 9th Aug 2024 to 11th May 2025
+and may be added here at some point for reference....
+
+## Install
+
 The HyperMax-Plus-PixN theme is now available in the 'Themes Downloader' section of RetroBat and Batocera!
 
 A video of the theme in action and all it's various options and views can be found here:
