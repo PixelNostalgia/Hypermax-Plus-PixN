@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xml:space="preserve"
-   sodipodi:docname="batocera.svg"
+   sodipodi:docname="pixnbatocera.svg"
    inkscape:export-filename="batocera_v2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -859,7 +859,7 @@
      id="g281"
      transform="matrix(1.0990897,0,0,1.0990897,419.38468,-8.3721563)"
      inkscape:label="TeamPixNPresents"
-     style="display:none"><path
+     style="display:inline"><path
        id="path184-8"
        style="-inkscape-font-specification:'Zebulon Italic';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01015;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:8;stroke-opacity:0.91;paint-order:fill markers stroke"
        inkscape:label="ShadowHardLine"
