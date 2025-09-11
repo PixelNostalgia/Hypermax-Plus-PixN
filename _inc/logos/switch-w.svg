@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.41179679"
-     inkscape:cx="1735.0791"
-     inkscape:cy="428.60946"
+     inkscape:zoom="0.58236861"
+     inkscape:cx="2012.4711"
+     inkscape:cy="402.66594"
      inkscape:window-width="3840"
      inkscape:window-height="2066"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6" />
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <mask
@@ -66,11 +66,11 @@
   <g
      id="g4"
      inkscape:label="SwitchShadow"
-     style="display:none;fill:#000000"
+     style="display:inline;fill:#000000"
      transform="translate(2,2)">
     <path
        d="m 35.25813,66.055623 c 0,11.08604 8.99583,20.08187 20.08187,20.08187 11.08604,0 20.08188,-8.99583 20.08188,-20.08187 0,-11.08605 -8.99584,-20.08188 -20.08188,-20.08188 h -0.0265 c -11.05958,0 -20.05542,8.99583 -20.05542,20.08188 z M 87.80438,198.34728 H 56.76875 C 46.79396,198.37374 37.2425,194.43145 30.20458,187.36707 23.14021,180.35561 19.17146,170.7777 19.19792,160.80291 V 56.742283 c 0,-10.02771 3.91583,-19.446873 10.98021,-26.537703 C 37.21604,23.1402 46.7675,19.17145 56.74229,19.19791 H 87.75146 V 198.34728 Z M 103.44125,2 H 56.76875 C 26.52688,2 2,26.50041 2,56.742283 V 160.80291 c 0,30.24187 24.52688,54.76875 54.76875,54.76875 h 46.6725 c 0.87313,0 1.56104,-0.68792 1.56104,-1.56105 V 213.98416 3.56104 C 105.00229,2.68791 104.31438,2 103.44125,2 Z m 65.19333,95.858533 c 11.93271,0.23813 21.40479,10.107087 21.16667,22.039787 -0.23813,11.58875 -9.57792,20.92854 -21.16667,21.16667 -11.9327,-0.23813 -21.40479,-10.10708 -21.16666,-22.03979 0.26458,-11.58875 9.57791,-20.928537 21.16666,-21.166667 z M 127.94167,215.57166 h 32.86125 c 30.24187,0 54.76875,-24.52688 54.76875,-54.76875 V 56.742283 C 215.57167,26.50041 191.04479,2 160.80292,2 h -33.02 c -0.76729,0 -1.37584,0.60854 -1.40229,1.34937 v 0.0265 210.60833 c 0,0.87312 0.71437,1.5875 1.56104,1.5875 z"
-       style="clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       style="clip-rule:evenodd;display:inline;fill:#333333;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:0.89641434"
        id="path3"
        inkscape:label="Logo" />
     <path
@@ -79,7 +79,7 @@
        id="path4"
        inkscape:label="Nintendo Switch"
        sodipodi:nodetypes="ccccscsccscsscccssccssscccccccccccccccccccccccscccsssssccccccccccccccccccccccccccccccssccssccsccsccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-       style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:0.264583" />
+       style="clip-rule:evenodd;fill:#333333;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:0.89641434" />
   </g>
   <g
      id="g5"
