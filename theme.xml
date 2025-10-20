@@ -41,55 +41,55 @@
    <include subset="Logo" name="Logo Silver">./m-silver.xml</include>
    <include subset="Logo" name="Logo Trans">./m-trans.xml</include>
       
-   	<include subset="Color" name="Color Default">./_inc/color/Default.xml</include>
-    <include subset="Color" name="Color Dark">./_inc/color/Dark.xml</include>
-	<include subset="Color" name="Color White">./_inc/color/White.xml</include>
-	<include subset="Color" name="Color Fire">./_inc/color/Fire.xml</include>
-	<include subset="Color" name="Color Turquoise">./_inc/color/Turquoise.xml</include>
-	<include subset="Color" name="Color Sky Blue">./_inc/color/plus.xml</include>
-	<include subset="Color" name="Color Purple">./_inc/color/purple.xml</include>
-	<include subset="Color" name="Color Red">./_inc/color/red.xml</include>
-	<include subset="Color" name="Color Aqua">./_inc/color/blue.xml</include>
-	<include subset="Color" name="Color Orange">./_inc/color/orange.xml</include>
-	<include subset="Color" name="Color Green">./_inc/color/green.xml</include>
-	<include subset="Color" name="Color Yellow">./_inc/color/yellow.xml</include>
-	<include subset="Color" name="Color Pink">./_inc/color/pink.xml</include>
-	<include subset="Color" name="Color Grey">./_inc/color/grey.xml</include>
-	<include subset="Color" name="Color Navy">./_inc/color/darkblue.xml</include>
-    <include subset="Color" name="Color Violet">./_inc/color/violet.xml</include>
-	<include subset="Color" name="Color Candy">./_inc/color/candy.xml</include>
-	<include subset="Color" name="Color Red-alt">./_inc/color/red-alt.xml</include>
-	<include subset="Color" name="Color Yellow-alt">./_inc/color/yellow-alt.xml</include>
-	<include subset="Color" name="Color Green-alt">./_inc/color/green-alt.xml</include>
-	<include subset="Color" name="Color Purple-alt">./_inc/color/purple-alt.xml</include>
+   <include subset="Color" name="Color Default">./_inc/color/Default.xml</include>
+   <include subset="Color" name="Color Dark">./_inc/color/Dark.xml</include>
+   <include subset="Color" name="Color White">./_inc/color/White.xml</include>
+   <include subset="Color" name="Color Fire">./_inc/color/Fire.xml</include>
+   <include subset="Color" name="Color Turquoise">./_inc/color/Turquoise.xml</include>
+   <include subset="Color" name="Color Sky Blue">./_inc/color/plus.xml</include>
+   <include subset="Color" name="Color Purple">./_inc/color/purple.xml</include>
+   <include subset="Color" name="Color Red">./_inc/color/red.xml</include>
+   <include subset="Color" name="Color Aqua">./_inc/color/blue.xml</include>
+   <include subset="Color" name="Color Orange">./_inc/color/orange.xml</include>
+   <include subset="Color" name="Color Green">./_inc/color/green.xml</include>
+   <include subset="Color" name="Color Yellow">./_inc/color/yellow.xml</include>
+   <include subset="Color" name="Color Pink">./_inc/color/pink.xml</include>
+   <include subset="Color" name="Color Grey">./_inc/color/grey.xml</include>
+   <include subset="Color" name="Color Navy">./_inc/color/darkblue.xml</include>
+   <include subset="Color" name="Color Violet">./_inc/color/violet.xml</include>
+   <include subset="Color" name="Color Candy">./_inc/color/candy.xml</include>
+   <include subset="Color" name="Color Red-alt">./_inc/color/red-alt.xml</include>
+   <include subset="Color" name="Color Yellow-alt">./_inc/color/yellow-alt.xml</include>
+   <include subset="Color" name="Color Green-alt">./_inc/color/green-alt.xml</include>
+   <include subset="Color" name="Color Purple-alt">./_inc/color/purple-alt.xml</include>
 	
-	<include subset="Help" name="Color Default">./_inc/helpsystem/Default.xml</include>
-	<include subset="Help" name="Color Sky Blue">./_inc/helpsystem/plus.xml</include>
-	<include subset="Help" name="Color Purple">./_inc/helpsystem/purple.xml</include>
-	<include subset="Help" name="Color Red">./_inc/helpsystem/red.xml</include>
-	<include subset="Help" name="Color Aqua">./_inc/helpsystem/blue.xml</include>
-	<include subset="Help" name="Color Orange">./_inc/helpsystem/orange.xml</include>
-	<include subset="Help" name="Color Green">./_inc/helpsystem/green.xml</include>
-	<include subset="Help" name="Color Yellow">./_inc/helpsystem/yellow.xml</include>
-	<include subset="Help" name="Color Pink">./_inc/helpsystem/pink.xml</include>
-	<include subset="Help" name="Color Grey">./_inc/helpsystem/grey.xml</include>
-	<include subset="Help" name="Color Navy">./_inc/helpsystem/darkblue.xml</include>
-    <include subset="Help" name="Color Violet">./_inc/helpsystem/violet.xml</include>
-	<include subset="Help" name="Color Candy">./_inc/helpsystem/candy.xml</include>
-	<include subset="Help" name="Color Red-alt">./_inc/helpsystem/red-alt.xml</include>
-	<include subset="Help" name="Color Yellow-alt">./_inc/helpsystem/yellow-alt.xml</include>
-	<include subset="Help" name="Color Green-alt">./_inc/helpsystem/green-alt.xml</include>
-	<include subset="Help" name="Color Purple-alt">./_inc/helpsystem/purple-alt.xml</include>
+   <include subset="Help" name="Color Default">./_inc/helpsystem/Default.xml</include>
+   <include subset="Help" name="Color Sky Blue">./_inc/helpsystem/plus.xml</include>
+   <include subset="Help" name="Color Purple">./_inc/helpsystem/purple.xml</include>
+   <include subset="Help" name="Color Red">./_inc/helpsystem/red.xml</include>
+   <include subset="Help" name="Color Aqua">./_inc/helpsystem/blue.xml</include>
+   <include subset="Help" name="Color Orange">./_inc/helpsystem/orange.xml</include>
+   <include subset="Help" name="Color Green">./_inc/helpsystem/green.xml</include>
+   <include subset="Help" name="Color Yellow">./_inc/helpsystem/yellow.xml</include>
+   <include subset="Help" name="Color Pink">./_inc/helpsystem/pink.xml</include>
+   <include subset="Help" name="Color Grey">./_inc/helpsystem/grey.xml</include>
+   <include subset="Help" name="Color Navy">./_inc/helpsystem/darkblue.xml</include>
+   <include subset="Help" name="Color Violet">./_inc/helpsystem/violet.xml</include>
+   <include subset="Help" name="Color Candy">./_inc/helpsystem/candy.xml</include>
+   <include subset="Help" name="Color Red-alt">./_inc/helpsystem/red-alt.xml</include>
+   <include subset="Help" name="Color Yellow-alt">./_inc/helpsystem/yellow-alt.xml</include>
+   <include subset="Help" name="Color Green-alt">./_inc/helpsystem/green-alt.xml</include>
+   <include subset="Help" name="Color Purple-alt">./_inc/helpsystem/purple-alt.xml</include>
   
-	<include subset="Iconset" name="Icon Default">./iconsets/default.xml</include>
-   	<include subset="Iconset" name="Icon PSX">./iconsets/psx.xml</include>
-	<include subset="Iconset" name="Icon SNES">./iconsets/snes.xml</include>
-	<include subset="Iconset" name="Icon Xbox">./iconsets/xbox.xml</include>
-	<include subset="Iconset" name="Icon Arcade">./iconsets/arcade.xml</include>
-	<include subset="Iconset" name="Icon Xbox One">./iconsets/xboxone.xml</include>
-	<include subset="Iconset" name="Icon Switch">./iconsets/switch.xml</include>
-	<include subset="Iconset" name="Icon PSX Alt">./iconsets/psx1.xml</include>
-	<include subset="Iconset" name="Icon SNES Alt">./iconsets/snesalt.xml</include>
+   <include subset="Iconset" name="Icon Default">./iconsets/default.xml</include>
+   <include subset="Iconset" name="Icon PSX">./iconsets/psx.xml</include>
+   <include subset="Iconset" name="Icon SNES">./iconsets/snes.xml</include>
+   <include subset="Iconset" name="Icon Xbox">./iconsets/xbox.xml</include>
+   <include subset="Iconset" name="Icon Arcade">./iconsets/arcade.xml</include>
+   <include subset="Iconset" name="Icon Xbox One">./iconsets/xboxone.xml</include>
+   <include subset="Iconset" name="Icon Switch">./iconsets/switch.xml</include>
+   <include subset="Iconset" name="Icon PSX Alt">./iconsets/psx1.xml</include>
+   <include subset="Iconset" name="Icon SNES Alt">./iconsets/snesalt.xml</include>
 	
    <include subset="Sound" name="Sound Default">./_inc/sound/1up.xml</include>
    <include subset="Sound" name="Sound Off">./_inc/sound/off.xml</include>
@@ -125,10 +125,10 @@
    <include subset="Shader" name="Scanlines 5">./art/sistemas/shader/scanlines5.xml</include>
    <include subset="Shader" name="CRT">./art/sistemas/shader/crt.xml</include>
 	
-	<include subset="Animation" name="Animation on">./Animation-on.xml</include>
-    <include subset="Animation" name="Animation off">./Animation-off.xml</include>
+   <include subset="Animation" name="Animation on">./Animation-on.xml</include>
+   <include subset="Animation" name="Animation off">./Animation-off.xml</include>
 	
-    <include>./_inc/gamebar/gamebar.xml</include>
+   <include>./_inc/gamebar/gamebar.xml</include>
 
 <!---------------------------screen----------------------------------------->
 
@@ -229,22 +229,22 @@
 
 <!---------------------------gamelist-views--------------------------------->
 
-<include name="Basic">./basic.xml</include>
-<include name="Video">./video.xml</include>
-<include name="Grid">./grid.xml</include>
-<include name="Gamecarousel">./gamecarousel.xml</include>
-<include name="Gamelist CoinOPS">./Gamelist-CoinOPS.xml</include>
-<include name="Gamelist ScreenShot">./Gamelist-ScreenShot.xml</include>
-<include name="Gamelist Caratula">./Gamelist-caratula.xml</include>
-<include name="Gamelist Marquee">./Gamelist-Marquee.xml</include>
-<include name="Gamelist All Video">./Gamelist-All-Video.xml</include>
-<include name="Gamelist Wall">./Gamelist-wall.xml</include>
-<include name="Gamelist Arcade">./Gamelist-arcade.xml</include>
-<include name="Gamelist HyperSpin-V">./Gamelist-HyperSpin-V.xml</include>
-<include name="Gamelist HyperSpin-R">./Gamelist-HyperSpin-R.xml</include>
-<include name="Gamelist Center">./Gamelist-Center.xml</include>
-<include name="Gamelist Pandora Carbon">./Gamelist-Pandora-Carbon.xml</include>
-<include name="Gamelist Pandora Mult">./Gamelist-Pandora-Mult.xml</include>
-<include name="Gamelist Dark">./Gamelist-Dark.xml</include>
+   <include name="Basic">./basic.xml</include>
+   <include name="Video">./video.xml</include>
+   <include name="Grid">./grid.xml</include>
+   <include name="Gamecarousel">./gamecarousel.xml</include>
+   <include name="Gamelist CoinOPS">./Gamelist-CoinOPS.xml</include>
+   <include name="Gamelist ScreenShot">./Gamelist-ScreenShot.xml</include>
+   <include name="Gamelist Caratula">./Gamelist-caratula.xml</include>
+   <include name="Gamelist Marquee">./Gamelist-Marquee.xml</include>
+   <include name="Gamelist All Video">./Gamelist-All-Video.xml</include>
+   <include name="Gamelist Wall">./Gamelist-wall.xml</include>
+   <include name="Gamelist Arcade">./Gamelist-arcade.xml</include>
+   <include name="Gamelist HyperSpin-V">./Gamelist-HyperSpin-V.xml</include>
+   <include name="Gamelist HyperSpin-R">./Gamelist-HyperSpin-R.xml</include>
+   <include name="Gamelist Center">./Gamelist-Center.xml</include>
+   <include name="Gamelist Pandora Carbon">./Gamelist-Pandora-Carbon.xml</include>
+   <include name="Gamelist Pandora Mult">./Gamelist-Pandora-Mult.xml</include>
+   <include name="Gamelist Dark">./Gamelist-Dark.xml</include>
 
 </theme>

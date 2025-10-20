@@ -26,6 +26,9 @@ I simply want to keep the theme alive and updated as it is still very popular!
 
 ## Change Log ##
 
+**20th October 2025**
+Code cleanup.
+
 **25th June 2025**
 Added the option to have system specific videos for each system.
 The theme will look for a system video here: /_inc/videos/${system.theme}.mp4
