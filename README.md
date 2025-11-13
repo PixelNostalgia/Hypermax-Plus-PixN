@@ -26,42 +26,13 @@ I simply want to keep the theme alive and updated as it is still very popular!
 
 ## Change Log ##
 
-**20th October 2025**
-Code cleanup.
-
-**25th June 2025**
-Added the option to have system specific videos for each system.
-The theme will look for a system video here: /_inc/videos/${system.theme}.mp4
-If that doesn't exist it will use random game video snaps, if there aren't any it will use a default video.
-
-**21st June 2025**
-Added new transparent system logos in SVG format.
-
-**21st June 2025**
-Added support for Namco 11 and 22 systems.
-
-**11th June 2025**
-Added support for the Tyrian port.
-
-**10th June 2025**
-Added support for Iortcs, Hurrican and ETLegacy ports.
-
-**3rd June 2025**
-Added artwork for the Sega Model 2 system.
-
-**21st May 2025**
-Added new transparent system logos in SVG format.
-
-**19th May 2025**
-Added support for the J2me system.
-
-**16th May 2025**
-Added new transparent system logos in SVG format.
-
 **May 12th 2025**
 Moved the theme/code to it's new GitHub Repo.
 The previous 84 changes date back from 9th Aug 2024 to 11th May 2025
 and may be added here at some point for reference....
+
+All updates/commits can be seen here:
+https://github.com/PixelNostalgia/Hypermax-Plus-PixN/commits/main/
 
 ## Install
 
