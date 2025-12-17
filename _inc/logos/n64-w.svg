@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="n64.svg"
+   sodipodi:docname="n64-w.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.503125"
+     inkscape:zoom="0.28958333"
      inkscape:cx="1920"
-     inkscape:cy="428.32298"
-     inkscape:window-width="3840"
-     inkscape:window-height="2066"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1" />
+     inkscape:cy="428.20144"
+     inkscape:window-width="1916"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="1041"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g12" />
   <defs
      id="defs1" />
   <g
@@ -42,7 +42,7 @@
        class="st0"
        points="1145.7,626.9 1285.1,626.9 1285.1,316.9 1190.8,316.9 1190.8,494.7 1190,494.7 1127.8,316.9      988.3,316.9 988.3,626.9 1082.6,626.9 1082.6,448 1083.4,448 1145.7,626.9    "
        id="polyline1"
-       style="fill:#334fa2"
+       style="fill:#bfbfbf;fill-opacity:1"
        inkscape:label="N" />
     <rect
        x="1342.2"
@@ -51,43 +51,43 @@
        width="116.3"
        height="310"
        id="rect3"
-       style="fill:#334fa2"
+       style="fill:#bfbfbf;fill-opacity:1"
        inkscape:label="I" />
     <polyline
        class="st0"
        points="1672,626.9 1811.5,626.9 1811.5,316.9 1717.1,316.9 1717.1,494.7 1716.3,494.7 1654.1,316.9      1514.6,316.9 1514.6,626.9 1609,626.9 1609,448 1609.7,448 1672,626.9    "
        id="polyline2"
-       style="fill:#334fa2"
+       style="fill:#bfbfbf;fill-opacity:1"
        inkscape:label="N" />
     <polyline
        class="st0"
        points="1919.2,401.2 1845.2,401.2 1845.2,316.9 2109.7,316.9 2109.7,401.2 2035.5,401.2 2035.5,626.9      1919.2,626.9 1919.2,401.2    "
        id="polyline4"
-       style="fill:#334fa2"
+       style="fill:#bfbfbf;fill-opacity:1"
        inkscape:label="T" />
     <polyline
        class="st0"
        points="2144,316.9 2374.2,316.9 2374.2,398.8 2258.6,398.8 2258.6,431.2 2365,431.2 2365,510.7      2258.6,510.7 2258.6,545.5 2377.8,545.5 2377.8,626.8 2144,626.8 2144,316.9    "
        id="polyline9"
-       style="fill:#334fa2"
+       style="fill:#bfbfbf;fill-opacity:1"
        inkscape:label="E" />
     <polyline
        class="st0"
        points="2578.2,626.9 2717.7,626.9 2717.7,316.9 2623.4,316.9 2623.4,494.7 2622.5,494.7 2560.3,316.9      2420.8,316.9 2420.8,626.9 2515.2,626.9 2515.2,448 2515.9,448 2578.2,626.9    "
        id="polyline3"
-       style="fill:#334fa2"
+       style="fill:#bfbfbf;fill-opacity:1"
        inkscape:label="N" />
     <path
        class="st0"
        d="m 2881.7,556.5 h 11.4 c 18.7,0 31.3,-5.7 38.6,-18.2 7.8,-12.9 8.6,-36.3 8.6,-66.3 0,-30.1 -0.8,-53.5 -8.6,-66.4 -7.3,-12.4 -19.8,-18.2 -38.6,-18.2 h -11.4 V 556.5 M 2767.8,316.9 h 137.9 c 117.6,0 155,66.5 155,158.4 0,93.6 -57.8,151.6 -148.1,151.6 h -144.8 z"
        id="path5"
-       style="fill:#334fa2"
+       style="fill:#bfbfbf;fill-opacity:1"
        inkscape:label="D" />
     <path
        class="st0"
        d="m 3243,556.5 c 17.9,0 31.3,-8.8 31.3,-84.6 0,-74.1 -12.6,-84.6 -31.3,-84.6 -18.7,0 -31.4,10.5 -31.4,84.6 0.1,75.9 13.6,84.6 31.4,84.6 m 0,-247.8 c 101.3,0 151.7,66.5 151.7,163.2 0,96.6 -50.4,163.2 -151.7,163.2 -101.3,0 -151.8,-66.5 -151.8,-163.2 0.1,-96.6 50.6,-163.2 151.8,-163.2 z"
        id="path6"
-       style="fill:#334fa2"
+       style="fill:#bfbfbf;fill-opacity:1"
        inkscape:label="O" />
     <path
        class="st1"
